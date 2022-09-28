@@ -1,0 +1,2 @@
+body{margin:0}.stars{display:flex}.stars-star{background-image:url(star.5b4179dc.svg);background-repeat:no-repeat;width:16px;height:16px;margin:0 2px}.stars--1 .stars-star:first-child,.stars--2 .stars-star:nth-child(-n+2),.stars--3 .stars-star:nth-child(-n+3),.stars--4 .stars-star:nth-child(-n+4),.stars--5 .stars-star:nth-child(-n+5){background-image:url(star-active.6aab7e7e.svg);background-repeat:no-repeat;width:16px;height:16px}
+/*# sourceMappingURL=style.51dbb413.css.map */
